@@ -15,10 +15,6 @@ The Adventure Works Sales Power BI dashboard is designed to facilitate informed 
 
 ## Technologies Used
 - **Power BI:** The primary tool used for data visualization and dashboard creation.
-- **SQL:** Used for data extraction and manipulation from the Adventure Works Sales database.
-- **Python Programming:** Leveraged for data preprocessing and advanced analytics.
-- **Advance Excel & VBA:** Skills utilized for additional data processing and analysis.
-
 ## Acknowledgments
 This project was made possible through the guidance and support of F1 MACRO TECHNOLOGIES during the internship period. Special thanks to the mentors for their valuable insights and expertise.
 
