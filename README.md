@@ -23,6 +23,5 @@ The Adventure Works Sales Power BI dashboard is designed to facilitate informed 
 This project was made possible through the guidance and support of F1 MACRO TECHNOLOGIES during the internship period. Special thanks to the mentors for their valuable insights and expertise.
 
 ## Dashboard Images
-Please insert links to your dashboard images here:
 - ![Slide 1: Sales Overview](Images/Img_1.jpg)
 - ![Slide 2: Sales Trends](Images/Img_2.jpg)
