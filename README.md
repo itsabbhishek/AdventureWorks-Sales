@@ -24,5 +24,5 @@ This project was made possible through the guidance and support of F1 MACRO TECH
 
 ## Dashboard Images
 Please insert links to your dashboard images here:
-- ![Slide 1: Sales Overview](Link_to_Slide_1_Image)
-- ![Slide 2: Sales Trends](Link_to_Slide_2_Image)
+- ![Slide 1: Sales Overview](Images/Img_1.jpg)
+- ![Slide 2: Sales Trends](Images/Img_2.jpg)
